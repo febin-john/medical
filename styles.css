@@ -1,0 +1,73 @@
+h2{
+  font-family: 'Secular One', sans-serif;
+  font-size: 3rem;
+}
+
+p{
+  line-height: 2;
+  font-family: sans-serif;
+  padding-left: 1.5rem;
+}
+.title{
+  margin-left: 0;
+  margin-right: 0;
+  background-color: #fff0f0;
+  /* background-color: #e8ffff; */
+}
+.navigation{
+  background-color: #343a40;
+  padding: 1rem 1rem 1rem 1rem;
+
+}
+
+.nav-item{
+  padding: 1.5rem 2rem 2rem 0;
+}
+
+.navbar-brand{
+  font-family: 'Abril Fatface', cursive;
+}
+
+
+
+.headTitle{
+  font-weight: 900;
+  font-size: 5rem;
+  text-align: left;
+  font-family: 'Secular One', sans-serif;
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+  padding-left: 1.5rem;
+}
+
+
+
+.btn{
+  margin-top: 2rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+img{
+  position: relative;
+  top: 0;
+  bottom: auto;
+  max-width: 100%;
+  height: auto;
+
+}
+.features{
+  padding-top: 5rem;
+  background-color: white;
+  text-align: center;
+}
+
+.feature-box{
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+
+}
+
+/* .title-images{
+  text-align: center;
+} */
